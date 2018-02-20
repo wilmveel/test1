@@ -1,0 +1,8 @@
+$ hello = [./hello.cmacc]
+$ hello.name = "Piet"
+
+$ def1 = [./def1.cmacc]
+
+{{hello}}
+
+{{def1}}
