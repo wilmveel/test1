@@ -1,7 +1,9 @@
 $ hello = [./hello.cmacc]
-$ hello.name = "Piet"
+$ hello.name = 'Piet123'
 
 $ def1 = [./def1.cmacc]
+
+$ format = ''
 
 {{hello}}
 
